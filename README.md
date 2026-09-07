@@ -897,7 +897,8 @@ displayTasks();
 ```
 
 ## OUTPUT
-![alt text](image.png)
+<img width="1627" height="867" alt="image" src="https://github.com/user-attachments/assets/78d0b54e-3ae2-42b1-b5d5-eb4a95092b33" />
+
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
